@@ -50,7 +50,7 @@ export default [
     {
         name: (
             <FormattedMessage
-                defaultMessage="Music"
+                defaultMessage="Moosic"
                 description="Name for the 'Music' extension"
                 id="gui.extension.music.name"
             />
